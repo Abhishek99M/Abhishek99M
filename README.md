@@ -1,3 +1,8 @@
+👋 Hi, I'm Abhishek Kumar
+
+I build complete software products using Python, Java, JavaScript, React, and Next.js — from designing clean user interfaces to developing secure backend APIs and database systems.
+I enjoy working on full-stack applications, AI-powered tools, and data-driven platforms, always focusing on performance, scalability, and user experience. My approach is to write clean, maintainable code and design systems that work reliably in real-world environments.
+My goal is to keep pushing my technical limits and grow into an engineer who delivers impactful, production-ready solutions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig._.abhi172) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar-a04701233/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek990103@gmail.com) 
